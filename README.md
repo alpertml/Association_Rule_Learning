@@ -1,6 +1,6 @@
 <img src="images/kapak.jpg"/>
 
-# Association Rule Learning için uygulama kodudur. Daha fazla bilgi ve teorik anlatımına [**Medium Yazısı**]() tıklayarak ulaşabilirsiniz.
+# Association Rule Learning için uygulama kodudur. Daha fazla bilgi ve teorik anlatımına [**Medium Yazısı**](https://medium.com/@alper.tml/öneri-sistemleri-association-rule-learning-1f2e59d086ba) tıklayarak ulaşabilirsiniz.
 
 # Repository Hakkında
 
